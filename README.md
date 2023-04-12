@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
 <h3 align="center">.Net Software Engineer</h3>
-<img align="right" alt="Coding" width="400" style="border-radius: 10px;" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<br>
+<img align="right" alt="Coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 📫 How to reach me **youssefahmedabdelfattah@outlook.com**
 
