@@ -10,7 +10,7 @@
 </div>
 
 
-## 🚀 **Technical Arsenal**
+## 🚀 **Technical Skills**
 <div align="center">
 
 ### **Languages & Frameworks**
