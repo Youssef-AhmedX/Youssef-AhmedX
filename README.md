@@ -4,8 +4,7 @@
 **Full-Stack Developer & Cloud Practitioner**  
 [![Email](https://img.shields.io/badge/📧_Email-youssefahmedabdelfattah@outlook.com-FF69B4?style=for-the-badge&logo=microsoft-outlook)](mailto:youssefahmedabdelfattah@outlook.com)
 
-✨ **BIS @ Helwan University** | 🏆 **GPA 3.53/4.0** | ☁️ **AWS Certified**  
-🚀 *Crafting robust solutions*  
+☁️ **AWS Certified**  🚀 *Crafting robust solutions*  
 
 </div>
 
