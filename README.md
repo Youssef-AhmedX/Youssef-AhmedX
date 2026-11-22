@@ -7,16 +7,13 @@
 <a href="https://x.com/joe_ahmed_"><b>𝕏 &nbsp; @joe_ahmed_</b></a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="mailto:youssefahmedabdelfattah@outlook.com"><b>Email</b></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://qabilah.com"><b>Qabilah ↗</b></a>
-
 </div>
 
 <br />
 
 ### Hey, I'm Joe 👋
 
-I'm a software engineer who enjoys building products end to end — from the architecture behind the scenes to the experiences people interact with.
+I'm a software engineer who enjoys building products end to end from the architecture behind the scenes to the experiences people interact with.
 
 <br />
 
@@ -26,7 +23,7 @@ I'm a software engineer who enjoys building products end to end — from the arc
   <img src="https://qabilah.com/assets/logos/SVGs/filled-lg.svg" alt="Qabilah" height="52" />
 </a>
 
-**Software Engineer at [Qabilah](https://qabilah.com)**  
+**Software Engineer at [Qabilah](https://qabilah.com/profile/joe)**  
 Building and shipping software with the Qabilah team.
 
 <br />
