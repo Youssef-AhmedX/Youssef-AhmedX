@@ -1,41 +1,43 @@
 <div align="center">
-  
-# Youssef Ahmed Abdelfattah  
-**Full-Stack Developer & Cloud Practitioner**  
-[![Email](https://img.shields.io/badge/📧_Email-youssefahmedabdelfattah@outlook.com-FF69B4?style=for-the-badge&logo=microsoft-outlook)](mailto:youssefahmedabdelfattah@outlook.com)
 
-☁️ **AWS Certified** 
-🚀 *Crafting robust solutions*  
+<img src="./assets/hero.svg" alt="Joe Ahmed — Software Engineer" width="100%" />
+
+<br />
+
+<a href="https://x.com/joe_ahmed_"><b>𝕏 &nbsp; @joe_ahmed_</b></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="mailto:youssefahmedabdelfattah@outlook.com"><b>Email</b></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://qabilah.com"><b>Qabilah ↗</b></a>
 
 </div>
 
+<br />
 
-## 🚀 **Technical Skills**
-<div align="center">
+### Hey, I'm Joe 👋
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge&logoWidth=30" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blazor-592C8C?logo=blazor&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-</p>
+I'm a software engineer who enjoys building products end to end — from the architecture behind the scenes to the experiences people interact with.
 
-### **Tools & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
-</div>
+<br />
 
+### Right now
 
-## 📜 **Certifications**  
-<div align="center">
+<a href="https://qabilah.com">
+  <img src="https://qabilah.com/assets/logos/SVGs/filled-lg.svg" alt="Qabilah" height="52" />
+</a>
 
-  ### **AWS Certified Cloud Practitioner**
-  <p>
-      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="60"/><br>  
-      Credential ID: 32ffaaf7f54b425ba46d60e640bb7ece 
-  </p>
-</div>
+**Software Engineer at [Qabilah](https://qabilah.com)**  
+Building and shipping software with the Qabilah team.
+
+<br />
+
+### Certification
+
+**☁️ AWS Certified Cloud Practitioner**  
+<sub>Credential ID: `32ffaaf7f54b425ba46d60e640bb7ece`</sub>
+
+<br />
+
+---
+
+<sub>Good software is built one thoughtful decision at a time.</sub>

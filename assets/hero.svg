@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Joe Ahmed | Software Engineer</title>
+  <desc id="desc">A sleek dark profile banner with bold typography, an abstract orbital design, and violet and teal highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101426"/>
+      <stop offset="0.52" stop-color="#0C1020"/>
+      <stop offset="1" stop-color="#14102A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#80F3E6"/>
+      <stop offset="0.55" stop-color="#98ACFF"/>
+      <stop offset="1" stop-color="#C1A1FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#885FFD" stop-opacity="0.24"/>
+      <stop offset="0.65" stop-color="#5B5BE8" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#5B5BE8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#7A89BC" stroke-width="0.55" opacity="0.14"/>
+    </pattern>
+    <clipPath id="round">
+      <rect width="1280" height="440" rx="24"/>
+    </clipPath>
+    <filter id="blur"><feGaussianBlur stdDeviation="24" /></filter>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="440" fill="url(#bg)"/>
+    <rect width="1280" height="440" fill="url(#grid)"/>
+    <circle cx="1058" cy="205" r="294" fill="url(#glow)"/>
+    <circle cx="1088" cy="112" r="112" fill="#766EF4" opacity="0.075" filter="url(#blur)"/>
+    <path d="M 0 0 H 1280" stroke="#7B82A7" stroke-opacity="0.25"/>
+
+    <!-- Signature mark -->
+    <rect x="64" y="56" width="13" height="13" rx="3" fill="#80F3E6"/>
+    <path d="M85 62.5 H118" stroke="#80F3E6" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <text x="132" y="68" fill="#A4B3D6" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3.4">ENGINEERING / PRODUCT</text>
+
+    <!-- Hero text -->
+    <text x="60" y="192" fill="#F7F8FF" font-family="'Segoe UI', Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-4.3">Joe</text>
+    <text x="63" y="265" fill="url(#accent)" font-family="'Segoe UI', Arial, sans-serif" font-size="80" font-weight="750" letter-spacing="-2.7">Ahmed.</text>
+    <text x="65" y="319" fill="#C4CAE0" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="400">Software Engineer</text>
+    <path d="M65 346 H612" stroke="#8C91AF" stroke-width="1" opacity="0.32"/>
+    <text x="65" y="382" fill="#8F9AB8" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="1.9">BUILD  /  SHIP  /  IMPROVE</text>
+
+    <!-- Abstract orbit -->
+    <g transform="translate(1022 222)">
+      <circle r="182" fill="none" stroke="#8E93B5" stroke-width="1" stroke-dasharray="4 9" opacity="0.44"/>
+      <circle r="145" fill="none" stroke="#898EDB" stroke-width="1.4" opacity="0.35"/>
+      <circle r="107" fill="none" stroke="#7BBCE8" stroke-width="1" opacity="0.5"/>
+      <circle r="63" fill="none" stroke="#94A9F0" stroke-width="1" opacity="0.45"/>
+      <ellipse rx="198" ry="72" transform="rotate(-29)" fill="none" stroke="url(#accent)" stroke-width="2.5" opacity="0.8"/>
+      <ellipse rx="193" ry="70" transform="rotate(58)" fill="none" stroke="#777CDF" stroke-width="1.6" opacity="0.33"/>
+      <path d="M-69 -31 L 0 -74 L 69 -31 L69 43 L0 84 L-69 43Z" fill="#10192E" stroke="url(#accent)" stroke-width="2" opacity="0.9"/>
+      <path d="M-69 -31 L0 11 L69 -31 M0 11 V84" fill="none" stroke="#92CCEB" stroke-width="1.6" opacity="0.66"/>
+      <path d="M0 -74 V11" stroke="#9D9DF5" stroke-width="1.3" opacity="0.52"/>
+      <circle cx="-146" cy="-126" r="7" fill="#8AF7E5"/>
+      <circle cx="133" cy="-65" r="6" fill="#B8A0FF"/>
+      <circle cx="120" cy="136" r="4" fill="#84C5FF"/>
+      <circle cx="-44" cy="173" r="3" fill="#8DF6DD"/>
+      <circle cx="0" cy="11" r="4" fill="#D3E8FF"/>
+    </g>
+
+    <!-- Faint corner detail -->
+    <path d="M1195 42 H1237 V84" fill="none" stroke="#9A91D8" opacity="0.45" stroke-width="2"/>
+    <path d="M43 396 V416 H63" fill="none" stroke="#83CFDF" opacity="0.35" stroke-width="2"/>
+  </g>
+</svg>
